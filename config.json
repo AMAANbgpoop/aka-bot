@@ -1,0 +1,9 @@
+{
+	"ip":"errorsmp2.aternos.me",
+	"port": 58075,
+	"name": "mujhe maat dekho",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register amandeep amandeep
+	"login-cmd":"/login (amandeep)"
+}
